@@ -37,14 +37,6 @@ The main objectives of this analysis were to:
 2. **Exploratory Data Analysis**: SQL queries were used to analyze different aspects of the data, including sales, customer accounts, channels, and regional performance.
 3. **Visualization**: Key insights were visualized using charts and figures to highlight trends and patterns.
 
-## SQL Queries
-
-A series of SQL queries were written to answer business-related questions, such as:
-- Finding **order IDs** with high gloss or poster quantities.
-- Identifying orders with **zero standard quantity** but large gloss or poster quantities.
-- Finding **company names** based on specific criteria (starting with 'C' or 'W' and containing 'ana' in the primary contact).
-- Providing a **region-wise summary** of sales representatives and their associated accounts.
-
 ## Results
 
 The results of this analysis have been presented through various visualizations, including:
